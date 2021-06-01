@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+}
+
+.baby1 {
+  height: 300px;
+  width: 100%;
+  background: linear-gradient(rgb(203, 216, 83), rgb(250, 209, 134), orange);
+}
+
+.baby2 {
+  height: 400px;
+  width: 100%;
+  background-image: url("../img/01.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+.baby3 {
+  height: 300px;
+  width: 100%;
+  background: linear-gradient(orange, rgb(250, 209, 134), rgb(203, 216, 83));
+}
